@@ -10,4 +10,4 @@
 ### 4. The Search functionality 
 #### *Verifying the Search functionality by imputting a product name and clicking the Search button.*
 ### 5. Verifying the page displayed after the search
-#### * Verifying if the page displayed after the search is teh correct one accordingly with the product name searched.*
+#### * Verifying if the page displayed after the search is the correct one accordingly with the product name searched.*
