@@ -1,5 +1,5 @@
 # Automation
-*Automation tests donne with WebDriverIO, using chromeDriver tool, on emag.ro website.Tests were written using VisualStudio Code tool.* 
+*Automation tests donne with WebDriverIO, using chromeDriver tool, on emag.ro website.Tests were written using VisualStudio Code.* 
 ## Tests donne :
 ### 1. The page title
 #### *The page should display the correct title.*
